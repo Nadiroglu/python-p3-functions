@@ -84,6 +84,11 @@ def my_function(param):
     print("Running my_function")
     return param + 1
 
+    def my_function(param):
+      print("My function is running")
+      return param + 1
+
+
 # New code goes here!
 ```
 
